@@ -1,0 +1,63 @@
+.bg-bg{
+    background-image: url(./pictures/download.svg);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.logo1{
+    width: 100%;
+}
+.sellonline{
+    font-size: 3.50em;
+}
+.emailform{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: red;
+    border: none;
+}
+.buttontrial{
+    width: 100%;
+}
+.spantext{
+    font-size: 11px;
+}
+.img1{
+    width: 55%;
+}
+
+.section2{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.container3 img{
+    width: 100%;
+}
+.container3row{
+    margin-bottom: 5%;
+    padding-bottom: 3%;
+}
+footer{
+    padding-top: 8%;
+}
+
+/*MEDIA QUERIES */
+@media (min-width: 400px) { 
+    .sellonline{
+        font-size: 1.80em;
+    }
+    .trusted{
+        font-size: 1.60em;
+    }
+ }
+
+@media (min-width: 1080px) { 
+    .sellonline{
+        font-size: 3.70em;
+    }
+    .trusted{
+        font-size: 1.90em;
+    }
+ }
+
